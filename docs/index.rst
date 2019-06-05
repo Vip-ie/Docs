@@ -17,7 +17,20 @@
    1.011Python-Abnormal
    1.012Python-Regular
    
-   2.Django
+   2.000Django
+   2.001Django-CreateProject
+   2.002Django-CreateViews
+   2.003Django-Url
+   2.004Django-Templates
+   2.005Django-StaticPath
+   2.006Django-Orm
+
+
+
+
+
+
+
    3.Tornado
    4.Mysql
    5.Redis

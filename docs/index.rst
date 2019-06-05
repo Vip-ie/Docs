@@ -22,8 +22,7 @@
    2.002Django-CreateViews
    2.003Django-Url
    2.004Django-Templates
-   2.005Django-StaticPath
-   2.006Django-Orm
+   2.005Django-Orm
 
 
 

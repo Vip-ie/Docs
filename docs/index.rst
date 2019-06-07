@@ -1,3 +1,5 @@
+DocumentS Note
+===============
 		Contents:
 
 .. toctree::

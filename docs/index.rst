@@ -36,3 +36,4 @@ DocumentS Note
    4.000Mysql
    5.000Redis
    6.000MangoDB
+   7.000Ubuntu
